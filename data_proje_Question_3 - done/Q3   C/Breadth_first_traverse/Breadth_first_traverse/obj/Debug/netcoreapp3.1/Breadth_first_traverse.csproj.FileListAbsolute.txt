@@ -1,0 +1,14 @@
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\bin\Debug\netcoreapp3.1\Breadth_first_traverse.exe
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\bin\Debug\netcoreapp3.1\Breadth_first_traverse.deps.json
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\bin\Debug\netcoreapp3.1\Breadth_first_traverse.runtimeconfig.json
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\bin\Debug\netcoreapp3.1\Breadth_first_traverse.runtimeconfig.dev.json
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\bin\Debug\netcoreapp3.1\Breadth_first_traverse.dll
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\bin\Debug\netcoreapp3.1\Breadth_first_traverse.pdb
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\obj\Debug\netcoreapp3.1\Breadth_first_traverse.csproj.AssemblyReference.cache
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\obj\Debug\netcoreapp3.1\Breadth_first_traverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\obj\Debug\netcoreapp3.1\Breadth_first_traverse.AssemblyInfoInputs.cache
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\obj\Debug\netcoreapp3.1\Breadth_first_traverse.AssemblyInfo.cs
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\obj\Debug\netcoreapp3.1\Breadth_first_traverse.csproj.CoreCompileInputs.cache
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\obj\Debug\netcoreapp3.1\Breadth_first_traverse.dll
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\obj\Debug\netcoreapp3.1\Breadth_first_traverse.pdb
+C:\Users\Burak KIZILAY\source\repos\Breadth_first_traverse\Breadth_first_traverse\obj\Debug\netcoreapp3.1\Breadth_first_traverse.genruntimeconfig.cache

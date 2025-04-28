@@ -1,0 +1,14 @@
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\bin\Debug\netcoreapp3.1\Dijktras_shortest_path.exe
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\bin\Debug\netcoreapp3.1\Dijktras_shortest_path.deps.json
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\bin\Debug\netcoreapp3.1\Dijktras_shortest_path.runtimeconfig.json
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\bin\Debug\netcoreapp3.1\Dijktras_shortest_path.runtimeconfig.dev.json
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\bin\Debug\netcoreapp3.1\Dijktras_shortest_path.dll
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\bin\Debug\netcoreapp3.1\Dijktras_shortest_path.pdb
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\obj\Debug\netcoreapp3.1\Dijktras_shortest_path.csproj.AssemblyReference.cache
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\obj\Debug\netcoreapp3.1\Dijktras_shortest_path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\obj\Debug\netcoreapp3.1\Dijktras_shortest_path.AssemblyInfoInputs.cache
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\obj\Debug\netcoreapp3.1\Dijktras_shortest_path.AssemblyInfo.cs
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\obj\Debug\netcoreapp3.1\Dijktras_shortest_path.csproj.CoreCompileInputs.cache
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\obj\Debug\netcoreapp3.1\Dijktras_shortest_path.dll
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\obj\Debug\netcoreapp3.1\Dijktras_shortest_path.pdb
+C:\Users\Burak KIZILAY\source\repos\Dijktras_shortest_path\Dijktras_shortest_path\obj\Debug\netcoreapp3.1\Dijktras_shortest_path.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\bin\Debug\netcoreapp3.1\Minimum_spanning_tree.exe
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\bin\Debug\netcoreapp3.1\Minimum_spanning_tree.deps.json
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\bin\Debug\netcoreapp3.1\Minimum_spanning_tree.runtimeconfig.json
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\bin\Debug\netcoreapp3.1\Minimum_spanning_tree.runtimeconfig.dev.json
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\bin\Debug\netcoreapp3.1\Minimum_spanning_tree.dll
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\bin\Debug\netcoreapp3.1\Minimum_spanning_tree.pdb
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\obj\Debug\netcoreapp3.1\Minimum_spanning_tree.csproj.AssemblyReference.cache
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\obj\Debug\netcoreapp3.1\Minimum_spanning_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\obj\Debug\netcoreapp3.1\Minimum_spanning_tree.AssemblyInfoInputs.cache
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\obj\Debug\netcoreapp3.1\Minimum_spanning_tree.AssemblyInfo.cs
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\obj\Debug\netcoreapp3.1\Minimum_spanning_tree.csproj.CoreCompileInputs.cache
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\obj\Debug\netcoreapp3.1\Minimum_spanning_tree.dll
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\obj\Debug\netcoreapp3.1\Minimum_spanning_tree.pdb
+C:\Users\Burak KIZILAY\source\repos\Minimum_spanning_tree\Minimum_spanning_tree\obj\Debug\netcoreapp3.1\Minimum_spanning_tree.genruntimeconfig.cache
