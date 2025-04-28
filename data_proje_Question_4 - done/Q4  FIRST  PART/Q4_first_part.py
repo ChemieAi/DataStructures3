@@ -1,0 +1,25 @@
+import networkx as nx
+import matplotlib.pyplot as plt
+
+G1=nx.DiGraph()
+G1.add_node(0,pos=(0,0))
+G1.add_node(1,pos=(2,-1))
+G1.add_node(2,pos=(1,-2))
+G1.add_node(3,pos=(-1,-2))
+G1.add_node(4,pos=(-2,-1))
+
+G1.add_edge(0,4, weight = 2.0)
+G1.add_edge(0,2, weight = 3.0)
+G1.add_edge(0,1, weight = 5.0)
+G1.add_edge(1,2, weight = 2.0)
+G1.add_edge(1,3, weight = 6.0)
+G1.add_edge(2,1, weight = 1.0)
+G1.add_edge(2,3, weight = 2.0)
+G1.add_edge(4,1, weight = 6.0)
+G1.add_edge(4,2, weight = 10.0)
+G1.add_edge(4,3, weight = 4.0)
+Pos = nx.circular_layout(G1)
+nx.draw_networkx(G1, with_labels=True)
+labels = nx.get_edge_attributes(G1,'weight')
+nx.draw_networkx_edge_labels(G1,Pos,edge_labels=labels)
+plt.show()
